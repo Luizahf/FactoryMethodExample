@@ -1,0 +1,11 @@
+1) O factory method é indicado para que e quando?
+O factory method é usado para encapsular as instanciações de tipos concretos.
+Essa centralização minimiza o efeito de adicionar e remover classes concretas no sistema e os efeitos das dependências de classes concretas.
+	
+2) Ele está em qual categoria dos Design Patterns?
+Factory
+
+3) Considerando essa implementação, o Xbox Series X e o Switch ferem qual principio SOLID?
+Principio de substituição de Liskov, pois os subtipos Xbox series X e Switch não podem ser 
+utilizados como seu tipo base (Console) sem alterações, já que em casos definidos (mídias online) não
+se comportam da mesma forma que a classe base, ou seja, não tem o retorno esperado: string.

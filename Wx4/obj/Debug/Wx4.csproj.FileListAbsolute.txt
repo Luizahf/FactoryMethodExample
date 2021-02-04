@@ -1,0 +1,7 @@
+C:\Users\134001\source\repos\Wx4\Wx4\bin\Debug\Wx4.exe.config
+C:\Users\134001\source\repos\Wx4\Wx4\bin\Debug\Wx4.exe
+C:\Users\134001\source\repos\Wx4\Wx4\bin\Debug\Wx4.pdb
+C:\Users\134001\source\repos\Wx4\Wx4\obj\Debug\Wx4.csprojAssemblyReference.cache
+C:\Users\134001\source\repos\Wx4\Wx4\obj\Debug\Wx4.csproj.CoreCompileInputs.cache
+C:\Users\134001\source\repos\Wx4\Wx4\obj\Debug\Wx4.exe
+C:\Users\134001\source\repos\Wx4\Wx4\obj\Debug\Wx4.pdb
